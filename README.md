@@ -1,4 +1,5 @@
 # FinancialPlanning
+![image](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/187d8c50-5871-4f4a-8129-9c91dd6be37b)
 
 Form Submission: When the user uploads the documents and submits the form, the backend processes the files, generates a financial plan using OpenAI's API, and then redirects to the chat page with the financial plan as a parameter.
 
