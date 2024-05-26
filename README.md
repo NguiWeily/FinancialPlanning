@@ -18,6 +18,7 @@ A fun page for a small dose of tips as well useful links
 ![hdb-valuation-report](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/019a10b1-7387-4210-967e-918f2a336a1c)
 ![wealth portfolio report](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/0b7c2388-c454-407e-85cf-65a194a26c17)
 ![Health Screening Report](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/ab3c927e-4773-4bc5-99f9-25316325ee2c)
+![image](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/9bb8a402-0080-481b-9eb0-51f7a8b8091a)
 
 Form Submission: When the user uploads the documents and submits the form, the backend processes the files, generates a financial plan using OpenAI's API, and then redirects to the chat page with the financial plan as a parameter.
 
