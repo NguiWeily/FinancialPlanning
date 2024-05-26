@@ -1,3 +1,17 @@
+# Dream or Delusion
+
+![image](https://github.com/NguiWeily/FinancialPlanning/assets/64390744/2f07e52d-4a46-4db1-aade-ab79dc36054a)
+
+By taking in these inputs, the feasibility calculator will calculate your delusional score. 
+It will either say Delusional. You may need to adjust your financial plan to achieve your retirement goals. Or You are on track for a financially secure retirement!
+It will also show your % Delusion
+
+# Tips and tricks
+
+![image](https://github.com/NguiWeily/FinancialPlanning/assets/64390744/ba22ca7c-7ca1-487f-9dd0-71f363c8b3a6)
+
+A fun page for a small dose of tips as well useful links
+
 # FinancialPlanning
 ![image](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/187d8c50-5871-4f4a-8129-9c91dd6be37b)
 
