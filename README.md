@@ -14,6 +14,7 @@ A fun page for a small dose of tips as well useful links
 
 # FinancialPlanning
 ![image](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/187d8c50-5871-4f4a-8129-9c91dd6be37b)
+![bank-consolidated-statements-deposit](https://github.com/NguiWeily/FinancialPlanning/assets/111359787/447bec2d-8292-4fb3-ba8f-a47209e6af6d)
 
 Form Submission: When the user uploads the documents and submits the form, the backend processes the files, generates a financial plan using OpenAI's API, and then redirects to the chat page with the financial plan as a parameter.
 
